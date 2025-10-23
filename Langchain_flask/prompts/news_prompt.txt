@@ -1,0 +1,12 @@
+Analyze the following news article for fake news indicators:
+- Source credibility
+- Emotional language
+- Fact verification
+- Logical consistency
+
+Provide:
+- Binary classification (True/False)
+- Confidence score (0-1)
+- Brief justification
+
+Article: {article}
